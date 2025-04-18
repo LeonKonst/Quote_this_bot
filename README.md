@@ -9,8 +9,8 @@ A Discord bot that generates quote images from messages when users reply with th
 
 ## Features
 
-- 🖼️ Generates beautiful quote images with:
-- ✅ Smart filtering:
+- 🖼️ Generates quote images with:
+- ✅ Some filtering:
   - Rejects empty messages
   - Skips media-only messages
 - 🛠️ Error handling:

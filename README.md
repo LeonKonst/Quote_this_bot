@@ -4,6 +4,7 @@ A Discord bot that generates quote images from messages when users reply with th
 
 #### Example quote
 
+![εικόνα](https://github.com/user-attachments/assets/54aff894-a6d6-489c-8753-3867f869bef7)
 
 
 ## Features
